@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "UMVxO9h1kqFFrDkUZJvl9s4gvM7ZG78r7WOKk9p1qIouWFtbgqyAd/STJFBaSXQD7YBmUuXFRvrYWOXLTQyR6w==",
+  "dgSpecHash": "HbAdMsLjM05JEFyt6eyD2VPgbphNgwMFUKHzHF+NjWx5xeiYAgWu/VhQPdWf6wK1UdZ1clv4faQ1CTqe9/rfPA==",
   "success": true,
   "projectFilePath": "/Users/amohada/Projects/SyntaxScanner/SyntaxScanner/SyntaxScanner.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/amohada/.nuget/packages/microsoft.codeanalysis.analyzers/3.11.0/microsoft.codeanalysis.analyzers.3.11.0.nupkg.sha512",
+    "/Users/amohada/.nuget/packages/microsoft.codeanalysis.common/4.13.0/microsoft.codeanalysis.common.4.13.0.nupkg.sha512",
+    "/Users/amohada/.nuget/packages/microsoft.codeanalysis.csharp/4.13.0/microsoft.codeanalysis.csharp.4.13.0.nupkg.sha512",
+    "/Users/amohada/.nuget/packages/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg.sha512",
+    "/Users/amohada/.nuget/packages/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
